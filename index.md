@@ -29,7 +29,7 @@ row_all:
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/harmonic.png
+  - image_path: images/WavefunctionPlot_3dz2.png
     alt: "Presentations"
     title: "Presentations"
     excerpt: >-
