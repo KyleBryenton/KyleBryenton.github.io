@@ -9,7 +9,7 @@ row_all:
     alt: "Group"
     title: "Group"
     excerpt: >-
-      The group, past and present.
+      The Johnson Group
     url: /group/
     btn_label: "_"
     btn_class: "btn--light-outline"
