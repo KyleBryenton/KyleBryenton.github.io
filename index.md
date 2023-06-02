@@ -22,7 +22,7 @@ row_all:
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Contact"
-    image_path: images/erj.jpg
+    image_path: images/KyleBryenton.jpg
     excerpt: >-
       Contact information for Kyle, along with some other useful links.
     alt: "Contact"
@@ -30,11 +30,11 @@ row_all:
     btn_label: "_"
     btn_class: "btn--light-outline"
   - image_path: images/harmonic.png
-    alt: "Course Notes"
-    title: "Course Notes"
+    alt: "Presentations"
+    title: "Presentations"
     excerpt: >-
       PDF notes for selected courses offered at Dalhousie.
-    url: /notes/
+    url: /presentations/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - image_path: images/kevan.png
