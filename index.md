@@ -5,7 +5,7 @@ title: "Home"
 intro:
   - excerpt: ""
 row_all:
-  - image_path: images/group-photo-2022.jpg
+  - image_path: images/GroupPhoto2022.jpg
     alt: "Group"
     title: "Group"
     excerpt: >-
@@ -13,7 +13,7 @@ row_all:
     url: /group/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/cover.png
+  - image_path: images/JCPGraphite.png
     alt: "Publications"
     title: "Publications"
     excerpt: >-
@@ -57,10 +57,12 @@ row_all:
 
 
   Hi there, I'm Kyle Bryenton!
+
   * MSc Physics from Guelph-Waterloo Physics Institute
   * Chemical Physics PhD Candidate at Dalhousie University.
   * Member of the Johnson research group.
-  I'm a mathematical, computational, and chemical physicist with a wide array of experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics.
+
+  I'm a mathematical, computational, and chemical physicist with a wide array of experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, they will be implemented in open-source electronic-structure codes such as Quantum ESPRESSO and FHI-aims.
 
 
 {% include feature_row_local id="intro" type="center" %}
