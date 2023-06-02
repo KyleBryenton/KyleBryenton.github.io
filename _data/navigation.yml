@@ -1,0 +1,14 @@
+main:
+  - title: "Group"
+    url: /group/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "Software"
+    url: /software/
+  - title: "News"
+    url: /news/
+

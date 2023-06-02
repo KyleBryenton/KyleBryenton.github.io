@@ -1,0 +1,86 @@
+# Theme settings
+remote_theme: mmistakes/minimal-mistakes@4.14.2
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings: {{ site.blah }}
+locale: "en-US"
+timezone: "Canada/Halifax"
+title: "Kyle Bryenton's Webpage"
+title_separator: "|"
+name: "Kyle R. Bryenton"
+email: "Kyle.Bryenton@dal.ca"
+description: >-
+  Hi there, I'm Kyle Bryenton!
+  * MSc Physics from Guelph-Waterloo Physics Institute
+  * Chemical Physics PhD Candidate at Dalhousie University.
+  * Member of the Johnson research group.
+  I'm a mathematical, computational, and chemical physicist with a wide array of experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics.
+baseurl: ""
+url: "https://KyleBryenton.github.io"
+repository: "KyleBryenton/KyleBryenton.github.io"
+github_username: "KyleBryenton"
+breadcrumbs: true
+
+# Searches
+search: true
+search_full_content: true
+
+# Markdown and plugins
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "\n\n"
+plugins:
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-gist
+  - jekyll-sitemap
+
+# Process math
+head_scripts:
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+# Excludes and includes
+exclude:
+  - LICENSE
+include:
+  - _publications/
+  - _group/
+  - _contact/
+  - _presentations/
+  - _software/
+  - _news/
+
+collections:
+  news:
+    output: true
+  publications:
+    output: true
+  group:
+    output: true
+  presentations:
+    output: true
+  software:
+    output: true
+  contact:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      classes: wide
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
