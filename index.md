@@ -37,11 +37,11 @@ row_all:
     url: /presentations/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/kevan.png
+  - image_path: images/Oscallot.png
     alt: "Software"
     title: "Software"
     excerpt: >-
-      Links to github pages for software developed by past and present group members: critic2, postg, and more.
+      Links to GitHub pages for software I've developed: OPSOLDE (2020) and Oscallot (2023).
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
