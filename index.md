@@ -56,10 +56,11 @@ row_all:
 ---
 
 
-  This is the website for Erin R. Johnson's research group. We are located in the
-  Department of Chemistry at Dalhousie University, in Halifax, Canada. Our
-  research area is development and application of density-functional theory,
-  with a focus on London dispersion and molecular crystal structure prediction.
+  Hi there, I'm Kyle Bryenton!
+  * MSc Physics from Guelph-Waterloo Physics Institute
+  * Chemical Physics PhD Candidate at Dalhousie University.
+  * Member of the Johnson research group.
+  I'm a mathematical, computational, and chemical physicist with a wide array of experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics.
 
 
 {% include feature_row_local id="intro" type="center" %}
