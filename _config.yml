@@ -51,7 +51,7 @@ include:
   - _aboutme/
 
 collections:
-  news:
+  aboutme:
     output: true
   publications:
     output: true

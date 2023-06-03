@@ -9,6 +9,6 @@ main:
     url: /presentations/
   - title: "Software"
     url: /software/
-  - title: "News"
-    url: /news/
+  - title: "About Me"
+    url: /aboutme/
 
