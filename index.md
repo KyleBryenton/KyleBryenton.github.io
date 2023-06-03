@@ -41,7 +41,7 @@ row_all:
     alt: "Software"
     title: "Software"
     excerpt: >-
-      GitHub links for software I've developed: OPSOLDE (2020) and Oscallot (2023).
+      GitHub links for software I've developed: OPSOLDE (2020) & Oscallot (2023).
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
