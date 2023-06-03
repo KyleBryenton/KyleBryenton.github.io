@@ -48,7 +48,7 @@ include:
   - _contact/
   - _presentations/
   - _software/
-  - _news/
+  - _aboutme/
 
 collections:
   news:
