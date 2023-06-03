@@ -8,7 +8,7 @@ search: true
 ---
 
 **Email:**  
-  kyle.bryenton@dal.ca
+  [kyle.bryenton@dal.ca](mailto:kyle.bryenton@dal.ca)
 
 **University:**  
   Dalhousie University

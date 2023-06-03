@@ -66,9 +66,10 @@ div {
 
 * MSc, Guelph-Waterloo Physics Institute
 * PhD Candidate, Dalhousie University
-* Member of the Johnson research group  
+* Member, Johnson research group  
+* Founder, UPEI Mathematics Achievement Program
 
-<div> I'm a mathematical, computational, and chemical physicist with a wide array of experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, they will be implemented in open-source electronic-structure codes such as Quantum ESPRESSO and FHI-aims.</div>
+<div> I'm a mathematical, computational, and chemical physicist with diverse research experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, we will implement them open-source electronic-structure codes such as Quantum ESPRESSO and FHI-aims.</div>
 
 
 {% include feature_row_local id="intro" type="center" %}
