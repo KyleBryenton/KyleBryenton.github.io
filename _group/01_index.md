@@ -9,7 +9,7 @@ search: true
 
 <figure style="width: 50%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/GroupPhoto2022.jpg" alt="The group, fall 2022">
-  <figcaption style="text-align: center"> The group, fall 2022. Back row: Kyle, Adebayo. Next from back row: Adrian, Cameron. Next from front row: Nick, Alex, Erin. Front row: Sarah, Alastair.</figcaption>
+  <figcaption style="text-align: center"> The Johnson Group (Fall 2022). <br> Back row: Kyle, Adebayo. <br> Next from back row: Adrian, Cameron. <br> Next from front row: Nick, Alex, Erin. <br> Front row: Sarah, Alastair.</figcaption>
 </figure>
 
 Current Group
