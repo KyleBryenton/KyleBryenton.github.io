@@ -8,7 +8,7 @@ search: true
 ---
 
 
-Peer Reviewed Articles:
+## Peer-Reviewed Articles:
 
 1. **K. R. Bryenton**, E. R. Johnson, *Many-body Dispersion in Model Systems and the Sensitivity of Self-consistent Screening.* J. Chem. Phys. **158** 204110 (2023). doi: [10.1063/5.0142465](https://doi.org/10.1063/5.0142465)
 
@@ -27,8 +27,7 @@ Peer Reviewed Articles:
 1. K. L. A. Kirk, **K. R. Bryenton**, N. Saad, *A Note on the Generalized and Universal Associated Legendre Equations*, Commun. Theor. Phys. **70**, 019 (2018). doi: [10.1088/0253-6102/70/1/19](https://doi.org/10.1088/0253-6102/70/1/19)
 
 
-
-Theses:
+## Theses:
 
 1. **K. R. Bryenton**, *Optical Properties of the α-T3 Semi-Dirac Model*, M.Sc. Thesis, Guelph-Waterloo Physics Institute, University of Guelph, Guelph, Ontario, Canada, (2018). doi: [10.13140/RG.2.2.17048.24325](https://doi.org/10.13140/RG.2.2.17048.24325)
 

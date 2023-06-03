@@ -68,6 +68,8 @@ div {
 * Chemical Physics PhD Candidate at Dalhousie University
 * Member of the Johnson research group  
 
+Test
+
 <div> I'm a mathematical, computational, and chemical physicist with a wide array of experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, they will be implemented in open-source electronic-structure codes such as Quantum ESPRESSO and FHI-aims.</div>
 
 
