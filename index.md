@@ -3,52 +3,46 @@ layout: splash
 permalink: /
 title: "Home"
 intro:
-  - excerpt: ""
+  - excerpt: "Links:"
 row_all:
-  - title: "Contact"
+  - title: "Contact Information"
     image_path: assets/KyleBryenton.jpg
-    excerpt: >-
-      My contact information, along with some other useful links.
-    alt: "Contact"
+    excerpt: " "
+    alt: "Contact Information"
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - title: "Group"
+  - title: "The Johnson Group"
     image_path: assets/GroupPhoto2022.jpg
-    excerpt: >-
-      Members of the Johnson group.
-    alt: "Group"
+    excerpt: " "
+    alt: "The Johnson Group"
     url: /group/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Publications"
     image_path: assets/JCPGraphite.png
-    excerpt: >-
-      List of publications.
+    excerpt: " "
     alt: "Publications"
     url: /publications/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Documents"
     image_path: assets/WavefunctionPlot_3dz2.png
-    excerpt: >-
-      Notes, presentations, and other documents.
+    excerpt: " "
     alt: "Documents"
     url: /documents/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Software"
     image_path: assets/Oscallot.png
-    excerpt: >-
-      GitHub links for software I've developed: OPSOLDE (2020) & Oscallot (2023).
+    excerpt: " "
     alt: "Software"
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Curriculum Vitae"
     image_path: assets/CV_Preview.png
-    excerpt: >-
-      A list of my professional and academic achievements.
+    excerpt: " "
     alt: "Curriculum Vitae"
     url: /cv/
     btn_label: "_"
