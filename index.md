@@ -1,26 +1,10 @@
----
+--
 layout: splash
 permalink: /
 title: "Home"
 intro:
   - excerpt: ""
 row_all:
-  - image_path: assets/GroupPhoto2022.jpg
-    alt: "Group"
-    title: "Group"
-    excerpt: >-
-      The Johnson Group
-    url: /group/
-    btn_label: "_"
-    btn_class: "btn--light-outline"
-  - image_path: assets/JCPGraphite.png
-    alt: "Publications"
-    title: "Publications"
-    excerpt: >-
-      List of publications.
-    url: /publications/
-    btn_label: "_"
-    btn_class: "btn--light-outline"
   - title: "Contact"
     image_path: assets/KyleBryenton.jpg
     excerpt: >-
@@ -29,27 +13,48 @@ row_all:
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: assets/WavefunctionPlot_3dz2.png
-    alt: "Documents"
-    title: "Documents"
+
+  - title: "Group"
+    image_path: assets/GroupPhoto2022.jpg
+    excerpt: >-
+      Members of the Johnson group.
+    alt: "Group"
+    url: /group/
+    btn_label: "_"
+    btn_class: "btn--light-outline"
+
+  - title: "Publications"
+    image_path: assets/JCPGraphite.png
+    excerpt: >-
+      List of publications.
+    alt: "Publications"
+    url: /publications/
+    btn_label: "_"
+    btn_class: "btn--light-outline"
+
+  - title: "Documents"
+    image_path: assets/WavefunctionPlot_3dz2.png
     excerpt: >-
       Notes, presentations, and other documents.
+    alt: "Documents"
     url: /documents/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: assets/Oscallot.png
-    alt: "Software"
-    title: "Software"
+
+  - title: "Software"
+    image_path: assets/Oscallot.png
     excerpt: >-
       GitHub links for software I've developed: OPSOLDE (2020) & Oscallot (2023).
+    alt: "Software"
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: assets/CV_Preview.png
-    alt: "Curriculum Vitae"
-    title: "Curriculum Vitae"
+
+  - title: "Curriculum Vitae"
+    image_path: assets/CV_Preview.png
     excerpt: >-
       A list of my professional and academic achievements.
+    alt: "Curriculum Vitae"
     url: /cv/
     btn_label: "_"
     btn_class: "btn--light-outline"
@@ -69,7 +74,7 @@ div {
 * Member, Johnson research group  
 * Founder, UPEI Mathematics Achievement Program
 
-<div> I'm a mathematical, computational, and chemical physicist with diverse research experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, we will implement them open-source electronic-structure codes such as Quantum ESPRESSO and FHI-aims.</div>
+<div> I'm a mathematical, computational, and chemical physicist with diverse research experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, we will implement them in open-source electronic-structure codes such as Quantum ESPRESSO and FHI-aims.</div>
 
 
 {% include feature_row_local id="intro" type="center" %}
