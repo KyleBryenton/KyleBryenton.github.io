@@ -5,7 +5,7 @@ title: "Home"
 intro:
   - excerpt: ""
 row_all:
-  - image_path: images/GroupPhoto2022.jpg
+  - image_path: assets/GroupPhoto2022.jpg
     alt: "Group"
     title: "Group"
     excerpt: >-
@@ -13,7 +13,7 @@ row_all:
     url: /group/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/JCPGraphite.png
+  - image_path: assets/JCPGraphite.png
     alt: "Publications"
     title: "Publications"
     excerpt: >-
@@ -22,22 +22,22 @@ row_all:
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Contact"
-    image_path: images/KyleBryenton.jpg
+    image_path: assets/KyleBryenton.jpg
     excerpt: >-
       Contact information for Kyle, along with some other useful links.
     alt: "Contact"
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/WavefunctionPlot_3dz2.png
+  - image_path: assets/WavefunctionPlot_3dz2.png
     alt: "Presentations"
     title: "Presentations"
     excerpt: >-
-      PDF notes for selected courses offered at Dalhousie.
+      Notes, presentations, and other documents.
     url: /presentations/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/Oscallot.png
+  - image_path: assets/Oscallot.png
     alt: "Software"
     title: "Software"
     excerpt: >-
@@ -45,12 +45,12 @@ row_all:
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/dal-crest.png
-    alt: "News"
-    title: "News"
+  - image_path: assets/dal-crest.png
+    alt: "About Me"
+    title: "About Me"
     excerpt: >-
-      News from the group.
-    url: /news/
+      About Me.
+    url: /aboutme/
     btn_label: "_"
     btn_class: "btn--light-outline"
 ---
