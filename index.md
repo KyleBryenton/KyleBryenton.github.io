@@ -13,7 +13,6 @@ row_all:
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
-
   - title: "Group"
     image_path: assets/GroupPhoto2022.jpg
     excerpt: >-
@@ -22,7 +21,6 @@ row_all:
     url: /group/
     btn_label: "_"
     btn_class: "btn--light-outline"
-
   - title: "Publications"
     image_path: assets/JCPGraphite.png
     excerpt: >-
@@ -31,7 +29,6 @@ row_all:
     url: /publications/
     btn_label: "_"
     btn_class: "btn--light-outline"
-
   - title: "Documents"
     image_path: assets/WavefunctionPlot_3dz2.png
     excerpt: >-
@@ -40,7 +37,6 @@ row_all:
     url: /documents/
     btn_label: "_"
     btn_class: "btn--light-outline"
-
   - title: "Software"
     image_path: assets/Oscallot.png
     excerpt: >-
@@ -49,7 +45,6 @@ row_all:
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
-
   - title: "Curriculum Vitae"
     image_path: assets/CV_Preview.png
     excerpt: >-
