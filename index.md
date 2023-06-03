@@ -45,7 +45,7 @@ row_all:
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: assets/dal-crest.png
+  - image_path: assets/CV_Preview.png
     alt: "Curriculum Vitae"
     title: "Curriculum Vitae"
     excerpt: >-
