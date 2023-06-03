@@ -16,7 +16,7 @@ Peer Reviewed Articles:
 
 1. A. J. A. Price, **K. R. Bryenton**, E. R. Johnson, *Requirements for an Accurate Dispersion-Corrected Density Functional.* J. Chem. Phys. **154**, 230902 (2021). doi: [10.1063/5.0050993](https://doi.org/10.1063/5.0050993)
 
-1. **K. R. Bryenton**, N. Saad, *Exactly Solvable Schrodinger Eigenvalue Problems for New Anharmonic Potentials with Variable Bumps and Depths*, Eur. Phys. J. Plus. **135**, 369 (2020). doi: [10.1140/epjp/s13360-020-00378-9](https://doi.org/10.1140/epjp/s13360-020-00378-9)
+1. **K. R. Bryenton**, N. Saad, *Exactly Solvable Schrödinger Eigenvalue Problems for New Anharmonic Potentials with Variable Bumps and Depths*, Eur. Phys. J. Plus. **135**, 369 (2020). doi: [10.1140/epjp/s13360-020-00378-9](https://doi.org/10.1140/epjp/s13360-020-00378-9)
 
 1. **K. R. Bryenton**, A. R. Cameron, K. L. A. Kirk, N. Saad, P. Strongman, N. Volodin, *On the Solutions of Second-Order Differential Equations with Polynomial Coefficients: Theory, Algorithm, Application*, Algorithms. **13**, 286 (2020). doi: [10.3390/a13110286](https://doi.org/10.3390/a13110286)
 
