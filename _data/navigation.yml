@@ -1,10 +1,10 @@
 main:
+  - title: "Contact"
+    url: /contact/ 
   - title: "Group"
     url: /group/
   - title: "Publications"
     url: /publications/
-  - title: "Contact"
-    url: /contact/
   - title: "Documents"
     url: /documents/
   - title: "Software"

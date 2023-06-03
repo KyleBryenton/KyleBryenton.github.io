@@ -10,11 +10,7 @@ title_separator: "|"
 name: "Kyle R. Bryenton"
 email: "Kyle.Bryenton@dal.ca"
 description: >-
-  Hi there, I'm Kyle Bryenton!
-  * MSc Physics from Guelph-Waterloo Physics Institute
-  * Chemical Physics PhD Candidate at Dalhousie University.
-  * Member of the Johnson research group.
-  I'm a mathematical, computational, and chemical physicist with a wide array of experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics.
+  Welcome to the website of Kyle Bryenton.
 baseurl: ""
 url: "https://KyleBryenton.github.io"
 repository: "KyleBryenton/KyleBryenton.github.io"
@@ -43,25 +39,25 @@ head_scripts:
 exclude:
   - LICENSE
 include:
-  - _publications/
-  - _group/
   - _contact/
+  - _group/
+  - _publications/
   - _documents/
   - _software/
   - _cv/
 
 collections:
-  cv:
-    output: true
-  publications:
+  contact:
     output: true
   group:
+    output: true
+  publications:
     output: true
   documents:
     output: true
   software:
     output: true
-  contact:
+  cv:
     output: true
 
 # Defaults
