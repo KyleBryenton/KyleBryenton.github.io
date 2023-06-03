@@ -7,18 +7,18 @@ excerpt: >-
 search: true
 ---
 
-**Email:** 
-    kyle.bryenton@dal.ca
+**Email:**  
+  kyle.bryenton@dal.ca
 
-**University:** 
-    Dalhousie University
+**University:**  
+  Dalhousie University
 
-**Lab:** 
-    Chemistry Building, Room 322
+**Lab:**  
+  Chemistry Building, Room 322
 
-**Mailing Address:**
-    Department of Physics and Atmospheric Science, Dalhousie University,
-    6310 Coburg Road, Halifax, Nova Scotia, Canada B3H 4R2
+**Mailing Address:**  
+  Department of Physics and Atmospheric Science, Dalhousie University,  
+  6310 Coburg Road, Halifax, Nova Scotia, Canada B3H 4R2
 
 **Other Links:**
   * [LinkedIn](https://www.linkedin.com/in/kyle-bryenton/)
