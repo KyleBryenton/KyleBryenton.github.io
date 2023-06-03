@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title: "Home"
 intro:
-  - excerpt: "Links:"
+  - excerpt: " "
 row_all:
   - title: "Contact Information"
     image_path: assets/KyleBryenton.jpg
@@ -65,6 +65,7 @@ div {
 
 <div> I'm a mathematical, computational, and chemical physicist with diverse research experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, we will implement them in open-source electronic-structure codes such as Quantum ESPRESSO and FHI-aims.</div>
 
+## Links:
 
 {% include feature_row_local id="intro" type="center" %}
 
