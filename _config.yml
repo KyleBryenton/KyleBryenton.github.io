@@ -48,10 +48,10 @@ include:
   - _contact/
   - _presentations/
   - _software/
-  - _aboutme/
+  - _cv/
 
 collections:
-  aboutme:
+  cv:
     output: true
   publications:
     output: true
