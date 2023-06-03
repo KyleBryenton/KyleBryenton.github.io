@@ -24,24 +24,24 @@ row_all:
   - title: "Contact"
     image_path: assets/KyleBryenton.jpg
     excerpt: >-
-      Contact information for Kyle, along with some other useful links.
+      My contact information, along with some other useful links.
     alt: "Contact"
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - image_path: assets/WavefunctionPlot_3dz2.png
-    alt: "Presentations"
-    title: "Presentations"
+    alt: "Documents"
+    title: "Documents"
     excerpt: >-
       Notes, presentations, and other documents.
-    url: /presentations/
+    url: /documents/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - image_path: assets/Oscallot.png
     alt: "Software"
     title: "Software"
     excerpt: >-
-      Links to GitHub pages for software I've developed: OPSOLDE (2020) and Oscallot (2023).
+      GitHub links for software I've developed: OPSOLDE (2020) and Oscallot (2023).
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
@@ -64,7 +64,7 @@ div {
   
 ## Hi there, I'm Kyle Bryenton.
 
-* MSc Physics, Guelph-Waterloo Physics Institute
+* MSc, Guelph-Waterloo Physics Institute
 * PhD Candidate, Dalhousie University
 * Member of the Johnson research group  
 

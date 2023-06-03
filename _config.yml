@@ -46,7 +46,7 @@ include:
   - _publications/
   - _group/
   - _contact/
-  - _presentations/
+  - _documents/
   - _software/
   - _cv/
 
@@ -57,7 +57,7 @@ collections:
     output: true
   group:
     output: true
-  presentations:
+  documents:
     output: true
   software:
     output: true
