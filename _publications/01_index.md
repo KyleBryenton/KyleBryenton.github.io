@@ -10,11 +10,11 @@ search: true
 
 ## Peer-Reviewed Articles:
 
-1. **K. R. Bryenton**, E. R. Johnson, *Many-body Dispersion in Model Systems and the Sensitivity of Self-consistent Screening.* J. Chem. Phys. **158** 204110 (2023). doi: [10.1063/5.0142465](https://doi.org/10.1063/5.0142465)
+1. **K. R. Bryenton**, E. R. Johnson, *Many-body Dispersion in Model Systems and the Sensitivity of Self-consistent Screening*, J. Chem. Phys. **158** 204110 (2023). doi: [10.1063/5.0142465](https://doi.org/10.1063/5.0142465)
 
-1. **K. R. Bryenton**, A. A. Adeleke, S. G. Dale, E. R. Johnson, *Delocalization Error: The Greatest Outstanding Challenge in Density-Functional Theory.* Wiley Interdiscip. Rev. Comput. Mol. Sci. **13**, e1631 (2023). doi: [10.1002/wcms.1631](https://doi.org/10.1002/wcms.1631)
+1. **K. R. Bryenton**, A. A. Adeleke, S. G. Dale, E. R. Johnson, *Delocalization Error: The Greatest Outstanding Challenge in Density-Functional Theory*, Wiley Interdiscip. Rev. Comput. Mol. Sci. **13**, e1631 (2023). doi: [10.1002/wcms.1631](https://doi.org/10.1002/wcms.1631)
 
-1. A. J. A. Price, **K. R. Bryenton**, E. R. Johnson, *Requirements for an Accurate Dispersion-Corrected Density Functional.* J. Chem. Phys. **154**, 230902 (2021). doi: [10.1063/5.0050993](https://doi.org/10.1063/5.0050993)
+1. A. J. A. Price, **K. R. Bryenton**, E. R. Johnson, *Requirements for an Accurate Dispersion-Corrected Density Functional*, J. Chem. Phys. **154**, 230902 (2021). doi: [10.1063/5.0050993](https://doi.org/10.1063/5.0050993)
 
 1. **K. R. Bryenton**, N. Saad, *Exactly Solvable Schrödinger Eigenvalue Problems for New Anharmonic Potentials with Variable Bumps and Depths*, Eur. Phys. J. Plus. **135**, 369 (2020). doi: [10.1140/epjp/s13360-020-00378-9](https://doi.org/10.1140/epjp/s13360-020-00378-9)
 
