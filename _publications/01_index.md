@@ -10,6 +10,8 @@ search: true
 
 ## Peer-Reviewed Articles:
 
+1. C. J. Nickerson, **K. R. Bryenton**,  A. J. A. Price, E. R. Johnson, *Comparison of Density-Functional Theory Dispersion Corrections for the DES15K Database*, J. Phys. Chem. A (In Press, 2023). doi: [10.1021/acs.jpca.3c04332]((https://doi.org/10.1021/acs.jpca.3c04332)
+
 1. **K. R. Bryenton**, E. R. Johnson, *Many-body Dispersion in Model Systems and the Sensitivity of Self-consistent Screening*, J. Chem. Phys. **158** 204110 (2023). doi: [10.1063/5.0142465](https://doi.org/10.1063/5.0142465)
 
 1. **K. R. Bryenton**, A. A. Adeleke, S. G. Dale, E. R. Johnson, *Delocalization Error: The Greatest Outstanding Challenge in Density-Functional Theory*, Wiley Interdiscip. Rev. Comput. Mol. Sci. **13**, e1631 (2023). doi: [10.1002/wcms.1631](https://doi.org/10.1002/wcms.1631)
