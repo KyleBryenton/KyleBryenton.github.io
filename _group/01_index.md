@@ -8,7 +8,7 @@ search: true
 ---
 
 <figure style="width: 80%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2023.jpg" alt="The Johnson Group (Fall 2023)">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2023.png" alt="The Johnson Group (Fall 2023)">
   <figcaption style="text-align: center"> The Johnson Group (Fall 2023) <br> Left to Right: Adrian, Kyle, Erin, Cameron, Grace</figcaption>
 </figure>
 

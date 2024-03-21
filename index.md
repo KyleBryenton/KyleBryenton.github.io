@@ -13,7 +13,7 @@ row_all:
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "The Johnson Group"
-    image_path: assets/GroupPhoto2023.jpg
+    image_path: assets/GroupPhoto2023.png
     excerpt: " "
     alt: "The Johnson Group"
     url: /group/
