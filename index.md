@@ -6,14 +6,14 @@ intro:
   - excerpt: " "
 row_all:
   - title: "Contact Information"
-    image_path: assets/KyleBryenton.jpg
+    image_path: assets/KyleBryenton_2023.jpg
     excerpt: " "
     alt: "Contact Information"
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "The Johnson Group"
-    image_path: assets/GroupPhoto2022.jpg
+    image_path: assets/GroupPhoto2023.jpg
     excerpt: " "
     alt: "The Johnson Group"
     url: /group/
