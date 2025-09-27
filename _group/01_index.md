@@ -10,7 +10,7 @@ search: true
 # Current Group
 
 <figure style="width: 80%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2025.png" alt="The Johnson Group (Summer 2025)">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2025.jpg" alt="The Johnson Group (Summer 2025)">
   <figcaption style="text-align: center"> The Johnson Group (Summer 2025) <br> Left to Right: Adrian, Sam, Grace, Erin, Cameron, Kyle</figcaption>
 </figure>
 
@@ -18,6 +18,9 @@ search: true
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
 
 Emeritus Prof. Axel D. Becke
+
+Post-docs:
+* Kyle Bryenton
 
 Chemistry:
 * Adrian Rumson
@@ -29,9 +32,6 @@ Chemistry:
 Physics:
 * Cameron Nickerson
 * Mohammad Rafiee Diznab
-
-Post-docs:
-* Kyle Bryenton
 
 # Past Group Pictures
 
