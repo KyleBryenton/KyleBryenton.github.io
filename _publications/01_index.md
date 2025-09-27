@@ -40,6 +40,8 @@ search: true
 
 ## Theses:
 
+1. **K. R. Bryenton**, *Physics-Guided Solutions to Dispersion in Density-Functional Theory*, Ph.D. Thesis, Department of Physics and Atmospheric Science, Dalhousie University, Halifax, Nova Scotia, Canada, (2025). doi: [10.13140/RG.2.2.21305.84328](https://doi.org/10.13140/RG.2.2.21305.84328)
+
 1. **K. R. Bryenton**, *Optical Properties of the α-T3 Semi-Dirac Model*, M.Sc. Thesis, Guelph-Waterloo Physics Institute, University of Guelph, Guelph, Ontario, Canada, (2018). doi: [10.13140/RG.2.2.17048.24325](https://doi.org/10.13140/RG.2.2.17048.24325)
 
 1. **K. R. Bryenton**, *Darboux-Crum Transformations, Supersymmetric Quantum Mechanics, and the Eigenvalue Problem*, B.Sc. Hons. Thesis, Department of Physics, University of Prince Edward Island, Charlottetown, Prince Edward Island, Canada, (2016). doi: [10.13140/RG.2.2.23129.98408](https://doi.org/10.13140/RG.2.2.23129.98408)
