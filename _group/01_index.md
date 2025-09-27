@@ -7,6 +7,34 @@ excerpt: >-
 search: true
 ---
 
+# Current Group
+
+<figure style="width: 80%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2025.png" alt="The Johnson Group (Summer 2025)">
+  <figcaption style="text-align: center"> The Johnson Group (Summer 2025) <br> Left to Right: Adrian, Sam, Grace, Erin, Cameron, Kyle</figcaption>
+</figure>
+
+
+Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
+
+Emeritus Prof. Axel D. Becke
+
+Chemistry:
+* Adrian Rumson
+* Grace Sparrow
+* Laura Rizzo
+* Sam Petrov
+* Mike Cotnam
+
+Physics:
+* Cameron Nickerson
+* Mohammad Rafiee Diznab
+
+Post-docs:
+* Kyle Bryenton
+
+# Past Group Pictures
+
 <figure style="width: 80%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2023.png" alt="The Johnson Group (Fall 2023)">
   <figcaption style="text-align: center"> The Johnson Group (Fall 2023) <br> Left to Right: Adrian, Kyle, Erin, Cameron, Grace</figcaption>
@@ -21,18 +49,4 @@ search: true
   <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2020_edited.png" alt="The Johnson Group (Fall 2020)">
   <figcaption style="text-align: center"> The Johnson Group (Fall 2020) <br> Left to Right: Joe, Fred, Tilas, Axel, Erin, Alastair, Fouad <br> Throughout: Kyle </figcaption>
 </figure>
-
-# Current Group
-
-Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
-
-Emeritus Prof. Axel D. Becke
-
-Chemistry:
-* Adrian Rumson
-* Grace Sparrow
-
-Physics:
-* Kyle Bryenton
-* Cameron Nickerson
 
