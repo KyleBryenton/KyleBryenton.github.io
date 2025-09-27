@@ -7,7 +7,7 @@ excerpt: >-
 search: true
 ---
 
-# Current Group
+## Current Group
 
 <figure style="width: 80%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2025.jpg" alt="The Johnson Group (Summer 2025)">
@@ -33,7 +33,7 @@ Physics:
 * Cameron Nickerson
 * Mohammad Rafiee Diznab
 
-# Past Group Pictures
+## Past Group Pictures
 
 <figure style="width: 80%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2023.png" alt="The Johnson Group (Fall 2023)">
