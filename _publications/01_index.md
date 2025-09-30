@@ -9,7 +9,7 @@ search: true
 
 ## Non-Peer-Reviewed Articles:
 
-1. **K. R. Bryenton**, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for GMTKN55*. Submitted to: Phys. Chem. Chem. Phys. (2025). doi: [xxxx](https://doi.org/xxxx)
+1. **K. R. Bryenton**, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for GMTKN55*. Submitted to: Phys. Chem. Chem. Phys. (2025). doi: [10.48550/arXiv.2509.23498](https://doi.org/10.48550/arXiv.2509.23498)
 
 1. **K. R. Bryenton**, E. R. Johnson, *The exchange-correlation dipole moment dispersion method*. Submitted to: Phys. Chem. Chem. Phys. (2025). doi: [10.48550/arXiv.2506.02352](https://doi.org/10.48550/arXiv.2506.02352)
 
