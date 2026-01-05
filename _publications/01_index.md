@@ -13,7 +13,7 @@ search: true
 
 1. V. Blum, *et al.* (including: **K. R. Bryenton**), *Roadmap on Advancements of the FHI-aims Software Package*. Submitted to: IOP Electronic Structure. (2025). doi: [10.48550/arXiv.2505.00125](https://doi.org/10.48550/arXiv.2505.00125)
 
-1. K. Panchagnula, D. Graf, **K. R. Bryenton**, E. R. Johnson, A. J. W. Thom, *Endofullerenes and Dispersion-Corrected Density Functional Approximations: A Cautionary Tale*. Preparing for Submission. (2025). doi: [10.48550/arXiv.2503.01637](https://doi.org/10.48550/arXiv.2503.01637)
+1. K. Panchagnula, D. Graf, **K. R. Bryenton**, E. R. Johnson, A. J. W. Thom, *Endofullerenes and Dispersion-Corrected Density Functional Approximations: A Cautionary Tale*. Submitted to: J. Chem. Phys. (2025). doi: [10.48550/arXiv.2503.01637](https://doi.org/10.48550/arXiv.2503.01637)
 
 ## Peer-Reviewed Articles:
 
