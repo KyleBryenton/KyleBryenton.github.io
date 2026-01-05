@@ -58,12 +58,12 @@ div {
   
 ## Hi there, I'm Kyle Bryenton.
 
-* Member, Johnson Group  
-* PhD, Dalhousie University
-* MSc, Guelph-Waterloo Physics Institute
+* Postdoctoral Research Fellow, Johnson Group  
+* PhD Chemical Physics, Dalhousie University
+* MSc Quantum Materials, Guelph-Waterloo Physics Institute
 * Founder, UPEI Mathematics Achievement Program
 
-<div> I'm a mathematical, computational, and chemical physicist with diverse research experience. My current research area is in the development of dispersion corrections within density-functional theory, with applications to surfaces, interfaces, crystal structures, and molecular dynamics. After testing our new formulations on known challenging cases, we will implement them in open-source electronic-structure codes such as FHI-aims.</div>
+<div> I'm a mathematical, computational, and chemical physicist with diverse research experience. My postdoctoral research role is supported by an industrial partnership between Draslovka, Dalhousie University's Department of Chemistry, and collaborators at the University of Cambridge. Building on my PhD work in density-functional theory (DFT) method development and testing, my research focuses on advancing Glycine Leaching Technology (GLT) to make mining more sustainable and economical.</div>
 
 ## Links:
 
