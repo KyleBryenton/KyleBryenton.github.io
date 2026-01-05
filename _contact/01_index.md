@@ -17,10 +17,10 @@ search: true
   Chemistry Building, Room 322
 
 **Mailing Address:**  
-  Kyle Bryenton
-  Dalhousie University, Department of Chemistry
-  Room 212, Chemistry Building, 6243 Alumni Crescent
-  PO Box 15000 Halifax, Nova Scotia, Canada B3H 4R2
+  Kyle Bryenton  
+  Dalhousie University, Department of Chemistry  
+  Room 212, Chemistry Building, 6243 Alumni Crescent  
+  PO Box 15000 Halifax, Nova Scotia, Canada B3H 4R2  
   
 
 **Other Links:**
