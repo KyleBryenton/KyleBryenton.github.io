@@ -9,8 +9,6 @@ search: true
 
 ## Non-Peer-Reviewed Articles:
 
-1. **K. R. Bryenton**, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for GMTKN55*. Submitted to: Phys. Chem. Chem. Phys. (2025). doi: [10.48550/arXiv.2509.23498](https://doi.org/10.48550/arXiv.2509.23498)
-
 1. **K. R. Bryenton**, E. R. Johnson, *The exchange-correlation dipole moment dispersion method*. Submitted to: Phys. Chem. Chem. Phys. (2025). doi: [10.48550/arXiv.2506.02352](https://doi.org/10.48550/arXiv.2506.02352)
 
 1. V. Blum, *et al.* (including: **K. R. Bryenton**), *Roadmap on Advancements of the FHI-aims Software Package*. Submitted to: IOP Electronic Structure. (2025). doi: [10.48550/arXiv.2505.00125](https://doi.org/10.48550/arXiv.2505.00125)
@@ -18,6 +16,8 @@ search: true
 1. K. Panchagnula, D. Graf, **K. R. Bryenton**, E. R. Johnson, A. J. W. Thom, *Endofullerenes and Dispersion-Corrected Density Functional Approximations: A Cautionary Tale*. Preparing for Submission. (2025). doi: [10.48550/arXiv.2503.01637](https://doi.org/10.48550/arXiv.2503.01637)
 
 ## Peer-Reviewed Articles:
+
+1. **K. R. Bryenton**, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for GMTKN55*. Phys. Chem. Chem. Phys. (*Advance Article*) (2025). doi: [10.1039/D5CP03741G](https://doi.org/10.1039/D5CP03741G)
 
 1. C. J. Nickerson, **K. R. Bryenton**,  A. J. A. Price, E. R. Johnson, *Comparison of Density-Functional Theory Dispersion Corrections for the DES15K Database*, J. Phys. Chem. A. **127**, 8712–8722 (2023). doi: [10.1021/acs.jpca.3c04332](https://doi.org/10.1021/acs.jpca.3c04332)
 
