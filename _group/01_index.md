@@ -17,8 +17,6 @@ search: true
 
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
 
-Emeritus Prof. Axel D. Becke
-
 Post-docs:
 * Kyle Bryenton
 
