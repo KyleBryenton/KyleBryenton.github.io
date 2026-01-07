@@ -58,7 +58,7 @@ div {
   
 ## Hi there, I'm Kyle Bryenton.
 
-* Postdoctoral Research Fellow, Johnson Group & Draslovka 
+* Postdoctoral Research Associate, Johnson Group & Draslovka 
 * PhD Chemical Physics, Dalhousie University
 * MSc Quantum Materials, Guelph-Waterloo Physics Institute
 * Founder, UPEI Mathematics Achievement Program
