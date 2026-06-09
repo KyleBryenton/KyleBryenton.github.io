@@ -21,7 +21,7 @@ search: true
 
 11. **K. R. Bryenton**, E. R. Johnson, *Consistent GMTKN55 and molecular-crystal accuracy using minimally empirical DFT with XDM(Z) dispersion*. Phys. Chem. Chem. Phys. **28** 11626–11638 (2026). doi:[10.1039/D6CP00403B](https://doi.org/10.1039/D6CP00403B) 
 
-10. **K. R. Bryenton**, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for GMTKN55*. Phys. Chem. Chem. Phys. (*Advance Article*) (2025). doi: [10.1039/D5CP03741G](https://doi.org/10.1039/D5CP03741G)
+10. **K. R. Bryenton**, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for GMTKN55*. Phys. Chem. Chem. Phys. **28** 1463–1469 (2026). doi: [10.1039/D5CP03741G](https://doi.org/10.1039/D5CP03741G)
 
 9. C. J. Nickerson, **K. R. Bryenton**,  A. J. A. Price, E. R. Johnson, *Comparison of Density-Functional Theory Dispersion Corrections for the DES15K Database*, J. Phys. Chem. A. **127**, 8712–8722 (2023). doi: [10.1021/acs.jpca.3c04332](https://doi.org/10.1021/acs.jpca.3c04332)
 
