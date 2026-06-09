@@ -11,7 +11,7 @@ search: true
 
 <figure style="width: 80%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2025.jpg" alt="The Johnson Group (Summer 2025)">
-  <figcaption style="text-align: center"> The Johnson Group (Summer 2025) <br> Left to Right: Adrian, Sam, Grace, Erin, Cameron, Kyle</figcaption>
+  <figcaption style="text-align: center"> The Johnson Group (Summer 2025) <br> Left to Right: Adrian, Grace, Mike, Erin, Cameron, Kyle <br> Not Pictured: Mohammad, Laura, Sam</figcaption>
 </figure>
 
 
@@ -26,10 +26,10 @@ Chemistry:
 * Laura Rizzo
 * Sam Petrov
 * Mike Cotnam
+* Miko Crouse
 
 Physics:
 * Cameron Nickerson
-* Mohammad Rafiee Diznab
 
 ## Past Group Pictures
 
