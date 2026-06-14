@@ -48,7 +48,12 @@ All talks, lectures, and posters are posted to: [github.com/KyleBryenton/slides-
 - [2023-06-21 CAP Talk - Many-Body Dispersion and the Sensitivity SCS](https://github.com/KyleBryenton/slides-posters/blob/main/2023-06-21%20CAP%20Talk%20-%20Many-Body%20Dispersion%20in%20Model%20Systems%20and%20the%20Sensitivity%20of%20Self-Consistent%20Screening%20-%20Kyle%20Bryenton.pdf)
 - [2023-08-02 FHIaims Poster - Improved Forces for the Exchange-hole Dipole Moment Model](https://github.com/KyleBryenton/slides-posters/blob/main/2023-08-02%20FHIaims%20Poster%20-%20Improved%20Forces%20for%20the%20Exchange-hole%20Dipole%20Moment%20Model%20-%20Kyle%20Bryenton.pdf)
 - [2023-09-01 Committee Meeting II](https://github.com/KyleBryenton/slides-posters/blob/main/2023-09-01%20Committee%20Meeting%20II%20-%20Kyle%20Bryenton.pdf)
-
+- [2024-02-26 Sanibel Poster - Adding Correlation to the Exchange-hole Dipole Moment Model](https://github.com/KyleBryenton/slides-posters/blob/main/2024-02-26%20Sanibel%20Poster%20-%20Adding%20Correlation%20to%20the%20Exchange-hole%20Dipole%20Moment%20Model%20-%20Kyle%20Bryenton.pdf)
+- [2024-07-22 CSTCC Talk - XCDM](https://github.com/KyleBryenton/slides-posters/blob/main/2024-07-22%20CSTCC%20Talk%20-%20XCDM%20-%20Kyle%20Bryenton.pdf)
+- [2024-08-05 UPEI Seminar - Climbing Down the Order of Purity](https://github.com/KyleBryenton/slides-posters/blob/main/2024-08-05%20UPEI%20Seminar%20-%20Climbing%20Down%20the%20Order%20of%20Purity%20-%20Kyle%20Bryenton.pdf)
+- [2024-10-22 Committee Meeting III](https://github.com/KyleBryenton/slides-posters/blob/main/2024-10-22%20Committee%20Meeting%20III%20-%20Kyle%20Bryenton.pdf)
+- [2025-06-24 WATOC Poster - The XCDM Model and Z-Damping](https://github.com/KyleBryenton/slides-posters/blob/main/2025-06-24%20WATOC%20Poster%20-%20The%20XCDM%20Model%20and%20Z-Damping%20-%20Kyle%20Bryenton.pdf)
+- [2025-08-08 PhD Defence - Physics-guided Solutions to Dispersion in DFT](https://github.com/KyleBryenton/slides-posters/blob/main/2025-08-08%20PhD%20Defence%20-%20Physics-guided%20Solutions%20to%20Dispersion%20in%20DFT%20-%20Kyle%20Bryenton.pdf)
 
 
 ## [PhD Thesis](https://doi.org/10.13140/RG.2.2.21305.84328)
