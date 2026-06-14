@@ -9,15 +9,15 @@ search: true
 
 ## Non-Peer-Reviewed Articles:
 
-3. **K. R. Bryenton**, E. R. Johnson, *The exchange-correlation dipole moment dispersion method*. Submitted to: Phys. Chem. Chem. Phys. (2025). doi: [10.48550/arXiv.2506.02352](https://doi.org/10.48550/arXiv.2506.02352)
-
-2. V. Blum, *et al.* (including: **K. R. Bryenton**), *Roadmap on Advancements of the FHI-aims Software Package*. Submitted to: IOP Electronic Structure. (2025). doi: [10.48550/arXiv.2505.00125](https://doi.org/10.48550/arXiv.2505.00125)
+2. **K. R. Bryenton**, E. R. Johnson, *The exchange-correlation dipole moment dispersion method*. Submitted to: Phys. Chem. Chem. Phys. (2025). doi: [10.48550/arXiv.2506.02352](https://doi.org/10.48550/arXiv.2506.02352)
 
 1. K. Panchagnula, D. Graf, **K. R. Bryenton**, E. R. Johnson, A. J. W. Thom, *Endofullerenes and Dispersion-Corrected Density Functional Approximations: A Cautionary Tale*. Submitted to: J. Chem. Phys. (2025). doi: [10.48550/arXiv.2503.01637](https://doi.org/10.48550/arXiv.2503.01637)
 
 ## Peer-Reviewed Articles:
 
-12. A. F. Rumson, **K. R. Bryenton**, E. R. Johnson, *The effects of dispersion damping and three-body interactions for accurate layered-material exfoliation energies* Phys. Chem. Chem. Phys. *Advance Article* (2026). doi:[10.1039/D6CP01304J](https://doi.org/10.1039/D6CP01304J)
+13. V. Blum, *et al.* (including: **K. R. Bryenton**), *Roadmap on Advancements of the FHI-aims Software Package*. (In Press: IOP Electronic Structure). (2026). doi: [10.48550/arXiv.2505.00125](https://doi.org/10.48550/arXiv.2505.00125)
+
+12. A. F. Rumson, **K. R. Bryenton**, E. R. Johnson, *The effects of dispersion damping and three-body interactions for accurate layered-material exfoliation energies* Phys. Chem. Chem. Phys. **28** 13543–13552 (2026). doi:[10.1039/D6CP01304J](https://doi.org/10.1039/D6CP01304J)
 
 11. **K. R. Bryenton**, E. R. Johnson, *Consistent GMTKN55 and molecular-crystal accuracy using minimally empirical DFT with XDM(Z) dispersion*. Phys. Chem. Chem. Phys. **28** 11626–11638 (2026). doi:[10.1039/D6CP00403B](https://doi.org/10.1039/D6CP00403B) 
 
