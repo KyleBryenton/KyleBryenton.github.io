@@ -10,8 +10,8 @@ search: true
 ## Current Group
 
 <figure style="width: 80%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2025.jpg" alt="The Johnson Group (Summer 2025)">
-  <figcaption style="text-align: center"> The Johnson Group (Summer 2025) <br> Left to Right: Adrian, Grace, Mike, Erin, Cameron, Kyle <br> Not Pictured: Mohammad, Laura, Sam</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/JohnsonGroup_2026b_square.jpg" alt="The Johnson Group (Summer 2026)">
+  <figcaption style="text-align: center"> The Johnson Group (Summer 2026) <br> Left to Right: Adrian, Laura, Kyle, Erin, Grace, Cameron</figcaption>
 </figure>
 
 
@@ -24,14 +24,18 @@ Chemistry:
 * Adrian Rumson
 * Grace Sparrow
 * Laura Rizzo
-* Sam Petrov
 * Mike Cotnam
+* Kanav Sharma
 * Miko Crouse
 
 Physics:
 * Cameron Nickerson
 
 ## Past Group Pictures
+<figure style="width: 80%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2025.jpg" alt="The Johnson Group (Summer 2025)">
+  <figcaption style="text-align: center"> The Johnson Group (Summer 2025) <br> Left to Right: Adrian, Grace, Mike, Erin, Cameron, Kyle</figcaption>
+</figure>
 
 <figure style="width: 80%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/GroupPhoto2023.png" alt="The Johnson Group (Fall 2023)">
