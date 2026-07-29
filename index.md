@@ -6,7 +6,7 @@ intro:
   - excerpt: " "
 row_all:
   - title: "Contact Information"
-    image_path: assets/KyleBryenton_Headshot_2025.jpg
+    image_path: assets/KyleBryenton_Headshot_2025_square.jpg
     excerpt: " "
     alt: "Contact Information"
     url: /contact/
