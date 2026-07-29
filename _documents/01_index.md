@@ -54,7 +54,7 @@ All talks, lectures, and posters are posted to: [github.com/KyleBryenton/slides-
 - [2024-10-22 Committee Meeting III](https://github.com/KyleBryenton/slides-posters/blob/main/2024-10-22%20Committee%20Meeting%20III%20-%20Kyle%20Bryenton.pdf)
 - [2025-06-24 WATOC Poster - The XCDM Model and Z-Damping](https://github.com/KyleBryenton/slides-posters/blob/main/2025-06-24%20WATOC%20Poster%20-%20The%20XCDM%20Model%20and%20Z-Damping%20-%20Kyle%20Bryenton.pdf)
 - [2025-08-08 PhD Defence - Physics-guided Solutions to Dispersion in DFT](https://github.com/KyleBryenton/slides-posters/blob/main/2025-08-08%20PhD%20Defence%20-%20Physics-guided%20Solutions%20to%20Dispersion%20in%20DFT%20-%20Kyle%20Bryenton.pdf)
-
+- [2026-07-15 CSTCC Talk - Outlier Analysis on Thermochemical Benchmarks](https://github.com/KyleBryenton/slides-posters/blob/main/2026-07-15%20CSTCC%20Talk%20-%20WTMAD4%20Outliers%20-%20Kyle%20Bryenton.pdf)
 
 ## [PhD Thesis](https://doi.org/10.13140/RG.2.2.21305.84328)
 
