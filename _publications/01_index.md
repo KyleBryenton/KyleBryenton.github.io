@@ -15,7 +15,7 @@ search: true
 
 ## Peer-Reviewed Articles:
 
-13. V. Blum, *et al.* (including: **K. R. Bryenton**), *Roadmap on Advancements of the FHI-aims Software Package*. (In Press: IOP Electronic Structure). (2026). doi: [10.48550/arXiv.2505.00125](https://doi.org/10.48550/arXiv.2505.00125)
+13. V. Blum, *et al.* (including: **K. R. Bryenton**), *Roadmap on Advancements of the FHI-aims Software Package*. (In Press: IOP Electronic Structure). (2026). doi: [10.1088/2516-1075/ae8067](https://doi.org/10.1088/2516-1075/ae8067)
 
 12. A. F. Rumson, **K. R. Bryenton**, E. R. Johnson, *The effects of dispersion damping and three-body interactions for accurate layered-material exfoliation energies* Phys. Chem. Chem. Phys. **28** 13543–13552 (2026). doi:[10.1039/D6CP01304J](https://doi.org/10.1039/D6CP01304J)
 
